@@ -1,0 +1,13 @@
+.tablaProductos {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 4px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.input{
+  width: 200px;
+}
