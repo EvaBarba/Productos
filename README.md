@@ -1,1 +1,1 @@
-# P2_productos
+# Catalogo_productos
